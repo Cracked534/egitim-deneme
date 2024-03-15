@@ -1,0 +1,2 @@
+# egitim-deneme
+gazi cyber
